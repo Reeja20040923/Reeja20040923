@@ -1,7 +1,11 @@
 # 👋 Hello! I'm Yaramalla Reeja 
+                                                                                                                  
+**| Final Year Student | System Engineer | Aspiring Developer | AI/ML Enthusiast | Data Analyst |** 
 
+ ![computer-work](https://github.com/user-attachments/assets/de9e8835-1701-4736-90fa-6642e894965c)
+    
+ 
 
-**| Final Year Student | System Engineer | Aspiring Developer | AI/ML Enthusiast | Data Analyst |**
 
 
 ---
