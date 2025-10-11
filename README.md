@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hello! I'm Yaramalla Reeja 
 
-<!--
-**Reeja20040923/Reeja20040923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**| Final Year Student | System Engineer | Aspiring Developer | AI/ML Enthusiast | Data Analyst |**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 💡 Summary
+
+A **motivated and detail-oriented System Engineer** with a solid foundation in software development, object-oriented programming, and web technologies. ]I possess strong problem-solving abilities, a collaborative mindset, and a passion for continuous learning in a fast-paced tech environment.
+
+I'm seeking to contribute to innovative software projects and grow as a developer within a dynamic engineering team.
+
+---
+
+## 🎓 Education
+
+| Institution | Degree/Specialization | Dates |
+| :--- | :--- | :--- |
+| **Kommuri Pratap Reddy Institute of Technology**  | University of Engineering and Technology - Specialization in **Artificial Intelligence and Machine Learning**  | Oct 2022 - Sep 2026  |
+| **St. Ann's Junior College**  | Intermediate  | Jun 2020 - May 2022 |
+
+---
+
+## 💼 Work Experience
+
+### **Student Trainee, Infosys** 
+* **Duration:** Nov 2024 - Mar 2025 
+* **Details:** Member of the Pragati cohort-3, where I assisted in the **Artificial Intelligence** .
+* Gained hands-on experience in communication skills, leadership qualities, and the technical field.
+
+### **Data Analyst, KultureHire** 
+**Duration:** Oct 2024 - Jan 2025 
+* **Details:** Worked with **MS-Excel and Word**.
+* Experienced in **data cleaning and data organizing**.
+* Utilized the **5WH frameworks** as part of the role.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Programming Languages** | Python, Java, Javascript, Html, CSS  |
+| **Databases** | sql  |
+| **Tools** | Github, Azure, MS-Excel, Vscode, Jupyter Notebook  |
+| **Core Concepts** | Data structures and algorithms, Object oriented programming  |
+
+
+---
+
+## 📂 Projects & Certificates
+
+### **Projects**
+* **Anamoly Detection in Power Distribution Networks** (Python) 
+* **Iot Data Classification using Machine Learning Approaches** (Python, ML) 
+
+
+### **Certificates**
+* **Udemy certified python programmer** 
+
+---
+
+## 📬 Get In Touch
+
+| Platform | Details |
+| :--- | :--- |
+| **Email** | yaramallareeja@gmail.com |
+| **LinkedIn** | www.linkedin.com/in/reejayaramalla2329  |
+| **Github** | https://github.com/Reeja20040923   |
+| **Leetcode** | https://leetcode.com/u/Reeja_Yaramalla/  |
+
+
+
+---
+
