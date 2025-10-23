@@ -1,4 +1,4 @@
-"C:\Users\reeja\Downloads\2025-10-23-Hi-I-m-Reeja-Yaramalla-Coder.gif"  
+
                                                                                                                   
 **| Final Year Student @ KPRIT | System Engineer | Aspiring Developer | AI/ML Enthusiast | Data Analyst | Web Developer |** 
 
