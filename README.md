@@ -30,12 +30,12 @@ I'm seeking to contribute to innovative software projects and grow as a develope
 
 ## 💼 Work Experience
 ### **Student Trainee, TNSIF**
-* **Duration:** Aug 2025 - Oct 2025
+**Duration:** Aug 2025 - Oct 2025
 * **Details:** Learnt Java Backend , Postgresql , Postman**.
 * **Project:** College Admin Project
   
 ### **Student Trainee, Infosys** 
-* **Duration:** Nov 2024 - Mar 2025 
+**Duration:** Nov 2024 - Mar 2025 
 * **Details:** Member of the Pragati cohort-3, where I assisted in the **Artificial Intelligence** .
 * Gained hands-on experience in communication skills, leadership qualities, and the technical field.
 
