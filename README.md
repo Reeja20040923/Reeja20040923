@@ -62,7 +62,7 @@ I'm seeking to contribute to innovative software projects and grow as a develope
 ## 📂 Projects & Certificates
 
 ### **Projects**
-* **Anamoly Detection in Power Distribution Networks** (Python) 
+* **Anamoly Detection in Power Distribution Networks** (Python,ML) 
 * **Iot Data Classification using Machine Learning Approaches** (Python, ML) 
 
 
