@@ -1,6 +1,6 @@
 *👋Hii...... I am Reeja Yaramalla # Female Coder 😁*
                                                                                                                   
-**| Final Year Student @ KPRIT | System Engineer | Aspiring Developer | AI/ML Enthusiast | Data Analyst | Web Developer |**
+**| Final Year Student @ KPRIT | Python Programmer | Java Coder| Aspiring Developer | AI/ML Enthusiast | Data Analyst | Web Developer |**
 
  ![computer-work](https://github.com/user-attachments/assets/de9e8835-1701-4736-90fa-6642e894965c)     ![a-0005](https://github.com/user-attachments/assets/e812d76b-f041-49c6-ab0d-f7fe637a2eb8)
     
