@@ -80,7 +80,7 @@ I'm seeking to contribute to innovative software projects and grow as a develope
 | **Github** | https://github.com/Reeja20040923   |
 | **Leetcode** | https://leetcode.com/u/Reeja_Yaramalla/  |
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reeja20040923&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
