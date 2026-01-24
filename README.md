@@ -13,7 +13,7 @@
 
 ## 💡 Summary
 
-A **motivated and detail-oriented System Engineer** with a solid foundation in software development, object-oriented programming, and web technologies. ]I possess strong problem-solving abilities, a collaborative mindset, and a passion for continuous learning in a fast-paced tech environment. Good at communication skills,team work and soft skills |
+A **motivated and detail-oriented System Engineer** with a solid foundation in software development, object-oriented programming, and web technologies. ]I possess strong problem-solving abilities, a collaborative mindset, and a passion for continuous learning in a fast-paced tech environment. Good at communication, time management ,team work and soft skills |
 
 I'm seeking to contribute to innovative software projects and grow as a developer within a dynamic engineering team.
 
